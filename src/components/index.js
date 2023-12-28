@@ -1,0 +1,10 @@
+export { default as Feed } from "./Feed";
+export { default as Navbar } from "./Navbar";
+export { default as ChannelDetail } from "./ChannelDetail";
+export { default as SearchDetail } from "./SearchDetail";
+export { default as VideoDetail } from "./VideoDetail";
+export { default as Navsearch } from "./Navsearch";
+export { default as Sidebar } from "./Sidebar";
+export { default as Video } from "./Video";
+export { default as Channelcard } from "./Channelcard";
+export { default as Videocard } from "./Videocard";
